@@ -5,4 +5,7 @@
 <p>下载地址/下載地址/Download：
 <p>简体中文：https://raw.githubusercontent.com/943551369/8ghost/master/8ghostzh-cn.zip
 <p>正體中文：https://raw.githubusercontent.com/943551369/8ghost/master/8ghosttraditionalchinese.zip
-<p>English: Now translating, please wait some times.
+<p>English: Now we are translating, please wait some times.
+<p>未来特性：增加更新功能和插件、模板功能
+<p>未來特性：增加更新功能和插件、模板功能
+<p>Future feature: add update and plugin & template function
